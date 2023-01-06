@@ -75,3 +75,37 @@ main{
     margin-top: 30px;
     text-align: center;
 }
+.plan-title{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 45px;
+}
+.plan-description{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+/*donate card box*/
+.donate-card-box{
+    display: flex;
+    margin-top: 50px;
+}
+.card-box{
+    background-color: aqua;
+    margin-right: 20px;
+    padding: 50px 50px 150px 50px;
+    border-radius: 5px;
+}
+.card-box img{
+    margin-bottom: 20px;
+}
+.card-box-title{
+    margin-bottom: 10px;
+}
+.donate-card-box .card-box:nth-child(2){
+    background-color: rgb(252, 255, 97);
+}
+.donate-card-box .card-box:nth-child(3){
+    background-color: rgb(211, 170, 250);
+}
