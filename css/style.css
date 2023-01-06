@@ -177,3 +177,44 @@ main{
     width: 460px;
     height: 473px;
 }
+/*Get Update*/
+.subscribe{
+    margin-top: 200px;
+}
+.subscribe-title{
+    text-align: center;
+}
+.subscribe-des{
+    text-align: center;
+    margin-top: 50px;
+}
+.emails{
+    padding: 50px 300px 50px 300px;
+    background-color: rgb(243, 206, 152);
+    
+    
+    
+
+}
+.emails input{
+    padding: 10px 40px;
+    
+}
+.emails .email-btn{
+    padding: 10px 50px;
+}
+footer{
+    width: 100%;
+    background-color: darkblue;
+    height: 200px;
+}
+footer .footer-title{
+    text-align: center;
+    padding-top: 50px;
+    color: aliceblue;
+}
+footer .footer-des{
+    text-align: center;
+    padding-top: 20px;
+    color: aliceblue;
+}
